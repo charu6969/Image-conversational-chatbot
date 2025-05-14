@@ -1,0 +1,24 @@
+# Core dependencies
+torch==2.0.1
+transformers==4.36.2
+numpy==1.24.4
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# Web interface
+gradio==4.24.0
+gradio-client==0.13.0
+
+# Multilingual support
+googletrans==4.0.0-rc1
+gTTS==2.4.0
+
+# Utilities
+httpx==0.26.0
+huggingface-hub==0.20.3
+idna==3.6
+tqdm==4.66.2
+requests==2.31.0
+
+# Audio processing
+pydub==0.25.1
